@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ProjectGrandPath/static/css/main.87359fab.css",
+    "main.js": "/ProjectGrandPath/static/js/main.62b60e08.js",
+    "static/js/453.d4723046.chunk.js": "/ProjectGrandPath/static/js/453.d4723046.chunk.js",
+    "static/media/man.png": "/ProjectGrandPath/static/media/man.c3e5b93d71618cc6b615.png",
+    "static/media/banner.png": "/ProjectGrandPath/static/media/banner.c91e4c8f29627ff7b9df.png",
+    "static/media/goal.PNG": "/ProjectGrandPath/static/media/goal.a130077a84e1c4c904b4.PNG",
+    "static/media/calc.PNG": "/ProjectGrandPath/static/media/calc.e5c1c01b743beee63af6.PNG",
+    "static/media/iphone.png": "/ProjectGrandPath/static/media/iphone.d3f4ec0d6c4aa58dda8d.png",
+    "static/media/iphone1.png": "/ProjectGrandPath/static/media/iphone1.d3f4ec0d6c4aa58dda8d.png",
+    "static/media/grocery.PNG": "/ProjectGrandPath/static/media/grocery.38986c60f6a51da6212a.PNG",
+    "static/media/data.PNG": "/ProjectGrandPath/static/media/data.28d6622c1bb7ccdeac27.PNG",
+    "static/media/battery.PNG": "/ProjectGrandPath/static/media/battery.40c07d1014daaed3a39c.PNG",
+    "index.html": "/ProjectGrandPath/index.html",
+    "static/media/filler.PNG": "/ProjectGrandPath/static/media/filler.52acbecbbcacfae41e2e.PNG",
+    "main.87359fab.css.map": "/ProjectGrandPath/static/css/main.87359fab.css.map",
+    "main.62b60e08.js.map": "/ProjectGrandPath/static/js/main.62b60e08.js.map",
+    "453.d4723046.chunk.js.map": "/ProjectGrandPath/static/js/453.d4723046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87359fab.css",
+    "static/js/main.62b60e08.js"
+  ]
+}
